@@ -1,4 +1,4 @@
 # matplotlib-challenge
-Module 5 SQL Challenge by Mwohania (Nia) Taylor
+Module 5 Matplotlib Challenge by Mwohania (Nia) Taylor
 
 Repo for UC Berkeley Data Analytics Bootcamp
